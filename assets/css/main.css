@@ -87,13 +87,13 @@ span.ds-year{ color: #373737; font-size: 14px; font-weight: 700; padding-bottom:
 span.ds-department{ color: #373737; font-weight: 500; font-size: 18px; padding-bottom: 30px; }
 .ds-experience-list p{ font-size: 16px; line-height: 24px; font-weight: 300; text-align: justify; }
 .ds-experience-list ul{ list-style: none; padding: 0; margin: 0; padding-top: 10px; }
-.ds-experience-list ul li{font-size: 16px; line-height: 24px; font-weight: 300; padding-left: 28px; position:relative; margin-bottom: 20px;}
+.ds-experience-list ul li{font-size: 16px; line-height: 24px; font-weight: 300; padding-left: 28px; position:relative; margin-bottom: 20px; text-align: justify;}
 .ds-experience-list ul li:before{ content: ""; position: absolute; left: 0; top: 10px; border-radius: 100%; width: 8px; height: 8px; background-color: #373737; }
 /*-----------------------------------------------------------------
   6. >>> Work Style
 ----------------------------------------------------------------*/
 .ds-work-section{ padding-bottom: 80px; }
-.ds-work-list{ padding-left: 70px; padding-top:40px; padding-right: 70px; background-color:#F6F8FA; margin-bottom: 40px; text-align: justify; }
+.ds-work-list{ padding-left: 70px; padding-top:40px; padding-right: 70px; background-color:#F6F8FA; margin-bottom: 40px; text-align: justify;}
 .ds-work-list section{ padding-top: 20px; padding-right: 120px; }
 .ds-work-tilte{ color: #000; font-size: 30px; line-height: 36px; font-weight: 600; margin-bottom: 30px; text-align: left;}
 .ds-work-list p{ font-weight: 300; font-size: 18px; line-height: 30px; }
